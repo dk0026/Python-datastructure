@@ -1,0 +1,5 @@
+print('Hello world'[8])
+print()
+print('tinker'[1:4])
+print()
+print(set('Mississippi'))
